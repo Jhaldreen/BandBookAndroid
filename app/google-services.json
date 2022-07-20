@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069681580636",
+    "firebase_url": "https://bandbook-87bc5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bandbook-87bc5",
+    "storage_bucket": "bandbook-87bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069681580636:android:66659425a767b84ca4a499",
+        "android_client_info": {
+          "package_name": "com.antonio.bandbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069681580636-3tgf0l2ljvrtf9ctbvl4pg3ft1lb2rva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antonio.bandbook",
+            "certificate_hash": "6231a8a19e203b4f28fe71a98f9b914ec0a61c35"
+          }
+        },
+        {
+          "client_id": "1069681580636-jplre30jm4fh9o5d3qi2q7fusvtcqajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFwCoGxU7hIlFAGn2vdf52m156tWVm9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069681580636-jplre30jm4fh9o5d3qi2q7fusvtcqajj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BandBook</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="registrotxt">REGISTRO</string>
+    <string name="correo">Escriba correo</string>
+    <string name="nombreBanda">Escriba nombre de la banda </string>
+    <string name="nombreLocal">Escriba nombre del local </string>
+    <string name="Localidad">Localidad</string>
+    <string name="provincia">Provincia</string>
+    <string name="numeroBanda">Numero integrantes</string>
+    <string name="numeroLocal">Aforo del local</string>
+    <string name="telefono">Telefono de contacto</string>
+
+</resources>
